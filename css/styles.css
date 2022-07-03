@@ -1,0 +1,33 @@
+body {background-color:#FEFBE7;}
+
+
+hr {border-style: none;
+    border-bottom: dotted;
+    border-color:#A0BCC2;
+    border-width:7px;
+    width:90px;}
+
+
+h1 {color:#A0BCC2;
+    font-family:Lucida Handwriting, Helvetica}
+
+h2 {color:#A0BCC2;
+    font-family:Helvetica}
+
+h3 {font-family:Helvetica}
+
+
+a:link {color: #A0BCC2;
+        text-decoration: none;}
+
+a:visited {color: #A0BCC2;
+           text-decoration: none;}
+
+a:hover {color: #DAE5D0;
+        text-decoration: underline;}
+
+a:active {color: #DAE5D0;
+          text-decoration: underline;}
+
+
+p {font-family:URW Chancery L, cursive}
